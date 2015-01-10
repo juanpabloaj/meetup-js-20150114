@@ -1,0 +1,14 @@
+{
+  "name": "simple-nodejs-express",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "juanpabloaj",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.7"
+  }
+}
