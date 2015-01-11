@@ -10,5 +10,10 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.10.7"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^4.4.4",
+    "supertest": "^0.15.0"
   }
 }
