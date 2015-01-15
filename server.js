@@ -16,7 +16,7 @@ site.route('/')
 
 site.route('/api')
   .get(function(req, res){
-    res.json({message:'bienvenido a la API!'});
+    res.json({message:'esta es la API!'});
   });
 
 app.use('/', site);
